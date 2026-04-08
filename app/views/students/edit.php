@@ -1,8 +1,8 @@
 <div class="mt-8 space-y-4">
     <!-- Card Header Start -->
     <div class="bg-white shadow p-4 rounded-lg">
-        <h1 class="font-bold text-2xl">Tambah Siswa</h1>
-        <p>Menambahkan siswa baru ke dalam sistem</p>
+        <h1 class="font-bold text-2xl">Edit Siswa</h1>
+        <p>Melakukan perubahan data siswa yang terdaftar</p>
     </div>
     <!-- Card Header End -->
 
